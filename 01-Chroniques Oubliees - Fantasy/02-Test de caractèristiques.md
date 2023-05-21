@@ -28,6 +28,13 @@ Il y a 2 type de lancer (dit naturel avant applciation des modificateurs) partic
     * Contre un PNJ
         => Test réussi si le score du PJ est >= au score du PNJ  
 
+## Attaque
+
+Une attaque se déroule en 2 étapes:
+1. Tests d'attaque (D20 + score ATQ) pour savoir si l'attaque touche ATQ >= DEF
+
+2. Si touche, lance le dé de dommage lié à l'arme équipée (+ modificateur FOR au contact)
+
 
 ## Test en coopération
 
@@ -46,7 +53,6 @@ Pour une action normale:
     => Obtient un 10 naturel
 * Prends 2d6 heures  
     => Obtient un 20 naturel (non critique)
-
 
 
 ## Appendix

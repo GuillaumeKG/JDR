@@ -25,6 +25,22 @@
 |Halfelin|||
 |Humain|||
 |Nain|||
+||||
+|Aasimar|||
+|Demi-Ogre|||
+|Ame forgée|||
+|Elfe noire|||
+|Etre féérique|||
+|Ophidien|||
+|Felis|||
+|Centaure|||
+|Drakonide|||
+|Frouïn|||
+|Gobelin|||
+|Kobold|||
+|Minotaure|||
+|Tieflin|||
+|Wolfer|||
 
 ## Profil
 

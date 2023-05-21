@@ -28,47 +28,22 @@ Le système de jeu utilise plusieurs types de dé:
 |Recueil de scénarios d'initiation||1-4|11||O|
 |Compagnons|Extensions de règles|||O||
 
+
+
+## Temps
+
+En combat:
+- 1 action normale = 10sec
+
+
+
 ## Liens
 [SRD du jeu](http://co-drs.org/)  
 
 [Noobliees Chroniques](https://nooblieeschroniques.fr/)  
 
-## Tests
-### Généralités
-1. Lancer 1 D20
-2. Ajouter Bonus/Malus au score du dé
-
-3. Dépend du type de test, il y a principalement 2:
-    * Contre un [Degré de Difficulté](#degré-de-difficulté) définit par le MJ  
-        => Test réussi si le score du PJ est >= au DD
-
-    * Contre un PNJ
-        => Test réussi si le score du PJ est >= au score du PNJ  
-
-
-### Critiques
-Il y a 2 type de lancer (dit naturel avant applciation des modificateurs) particuliers:
-- **Echec Critique**  
-    Généralement la valeur uniquement **1**, mais peut changer.  
-    Inmplique un échec automatique du test ainsi qu'un effet défavorable pour le PJ.  
-
-
-- **Réussite Critique**  
-    Généralement la valeur uniquement **20**, mais peut changer.  
-    Inmplique un succès automatique du test ainsi qu'un effet favorable pour le PJ. 
 
 
 
 
 
-
-## Appendix
-### Degré de Difficulté
-
-|Degré|Valeur à atteindre|
-|--|:--:|
-|Facile|5|
-|Moyen|10|
-|Difficile|15|
-|Très Difficile|20|
-|Quasiment Impossible|25|
