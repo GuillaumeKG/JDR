@@ -2,6 +2,20 @@
 
 ## Overview
 
+
+1. Renseigner le niveau 1 
+2. Choisir 1 race
+    - Renseigner le dé de vie
+    - Renseigner les modificateurs raciaux de caractèristiques
+    - 
+3. Choisir 1 profil
+    - 
+
+4. Déterminer les valeurs brutes des caractèristiques suivant une des [méthodes proposées](#initialisation)
+5. Déterminer les modificateurs de caractèristiques
+5. Sélectionner 2 capacités de voie de rang 1 parmi celles offertes par le profil.
+6. 
+
 ||Description|Initialisation|
 |--|--|--|
 |Niveau|Niveau du personnage. Il gagne automatiquement 1 niveau à la fin de chaque aventure.|1|
