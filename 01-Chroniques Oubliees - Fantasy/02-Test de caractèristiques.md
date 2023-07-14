@@ -6,21 +6,21 @@
 
 
 ### Critiques
-Il y a 2 type de lancer (dit naturel avant applciation des modificateurs) particuliers:
+Il y a 2 type de lancer particuliers (dit naturel avant application des modificateurs) :
 - **Echec Critique**  
-    Généralement la valeur uniquement **1**, mais peut changer.  
+    Généralement la valeur est uniquement **1**, mais peut changer.  
     Inmplique un échec automatique du test ainsi qu'un effet défavorable pour le PJ.  
-
 
 - **Réussite Critique**  
     Généralement la valeur uniquement **20**, mais peut changer.  
     Implique un succès automatique du test ainsi qu'un effet favorable pour le PJ. 
 
 
-
 ## Exécution
 1. Lancer 1 D20 
-2. Ajouter Bonus/Malus au score du dé correspondant à la caractèristique utilisées pour le test
+
+2. Ajouter Bonus/Malus au score du dé correspondant à la caractèristique utilisée pour le test
+
 3. Dépend du type de test, il y a principalement 2:
     * Contre un [Degré de Difficulté](#degré-de-difficulté) définit par le MJ  
         => Test réussi si le score du PJ est >= au DD
