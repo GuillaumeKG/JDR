@@ -1,0 +1,22 @@
+# Action PJ (hors combat)
+
+## Généralités
+
+|||
+|--|--|
+|****| |
+|||
+  
+## Coopération
+Un PJ peut assister un autre PJ pour effectuer une tâche. Dans ce cas, le PJ effectuant la tâche bénéficie d'un avantage.  
+Un PJ ne peut apporter son aide que pour une tâche qu'il pourrait faire.  
+
+
+## Se Cacher
+Pour se cacher la créature: 
+- Ne doit pas être dans le champ de vision des personnes de qui elle veut se cacher.  
+
+1. Effectuer un test de `Dextérité (Discrétion)`
+2. Tant que vous restez caché, ce résultat devient le DD du test de sagesse (Percéption) de toutes créature examinant la zone 
+
+Vous n'êtes plus caché dès que vous faites du bruit (alerter vos compagnons, attaquer...)
