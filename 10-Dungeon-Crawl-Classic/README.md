@@ -25,6 +25,7 @@ D3 (D6) -> D4 -> D5 (D10) -> D6 -> D7 (D8) -> D8 -> D10 -> D12 -> D14 (D12+D6) -
 ## Points de chance 
 
 - Utiliser pour améliorer les jets de dés
+- Mages et elfes peuvent brûler n'importe quelle caractèristique  
 
 
 ## Tests
