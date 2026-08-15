@@ -2,31 +2,34 @@
 
 ## Overview
 
-
 1. Renseigner le niveau 1 
+   
 2. Choisir 1 race
-    - Renseigner le dé de vie
-    - Renseigner les modificateurs raciaux de caractèristiques
-    - 
-3. Choisir 1 profil
-    - 
+    - Appliquer les modificateurs raciaux sur la valeur des caractèristiques 
+
+3. Choisir 1 profil, renseigner : 
+    - Le dé de vie
+    - L'équipement de départ
 
 4. Déterminer les valeurs brutes des caractèristiques suivant une des [méthodes proposées](#initialisation)
-5. Déterminer les modificateurs de caractèristiques
-5. Sélectionner 2 capacités de voie de rang 1 parmi celles offertes par le profil.
-6. 
 
-||Description|Initialisation|
-|--|--|--|
-|Niveau|Niveau du personnage. Il gagne automatiquement 1 niveau à la fin de chaque aventure.|1|
-|Dé de vie|Lié au profil|Valeur max du dé|
-|Initiative||Valeur de DEX|
-|Race|||
-|Defense||10+ Modif DEX|
-|Point de vie||Max Dé de Vie + Mod. CON|
-||||
-||||
-||||
+5. Déterminer les modificateurs de caractèristiques
+
+6. Sélectionner 2 capacités de voie de rang 1 parmi celles offertes par le profil.
+
+7. Déterminer les valeurs suivantes, sans oublier les éventuels bonus liés aux voires : 
+
+    ||Description|Initialisation|
+    |--|--|--|
+    |Niveau|Niveau du personnage. Il gagne automatiquement 1 niveau à la fin de chaque aventure.|1|
+    |Point de vie||Max Dé de Vie + Mod. CON|
+    |Initiative|Initiative lors d'un combat|Valeur de DEX|
+    |Contact|Attaque au corps à corps|Niveau + Modificateur FOR|
+    |Distance|Attaque à distance|Niveau + Modificateur DEX|
+    |Magique|Attaque magique|Niveau + Modificateur INT ou SAG ou CHA|
+    |Defense||10+ Modif DEX|
+    ||||
+
 
 ## Race
 |Carac|Description||
@@ -39,7 +42,7 @@
 |Halfelin|||
 |Humain|||
 |Nain|||
-||||
+|--|||
 |Aasimar|||
 |Demi-Ogre|||
 |Ame forgée|||
@@ -93,6 +96,7 @@ Les voies peuvent être assimilées à des compétences et faire bénéficier de
 Dans ce cas, le personnage bénéficie d'un bonus égal au rang le plus haut acquis dans cette voie.  
 
 ## Caractèristiques
+
 ### Généralités
 |Carac|Description|Initialisation|
 |--|--|--|
@@ -113,7 +117,7 @@ Les valeurs de chaque caractèristiques initiales vont de 1 à 20.
 |16-19|Exceptionnel|
 |20+|Surhumain|
 
-Les valeurs de carac ne servent poas en jeu directement mais permettent de déterminer le modificateur lors des tests:
+Les valeurs de carac ne servent pas en jeu directement mais permettent de déterminer le modificateur lors des tests:
 
 |Plage|Modificateur|
 |:--:|:--:|
