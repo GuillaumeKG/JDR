@@ -23,12 +23,16 @@ Il y a 2 type de lancer particuliers (dit naturel avant application des modifica
     Généralement la valeur uniquement **20**, mais peut changer.  
     Implique un succès automatique du test ainsi qu'un effet favorable pour le PJ. 
 
-## Attaque
+## Modificateurs
 
-Une attaque se déroule en 2 étapes:
-1. Tests d'attaque (D20 + score ATQ) pour savoir si l'attaque touche ATQ >= DEF
+### Luminosité
 
-2. Si touche, lance le dé de dommage lié à l'arme équipée (+ modificateur FOR au contact)
+|Conditions|Modificateur|Remarques|
+|--|:--:|:--:|
+|Jour|/||
+|Pénombre|-5 au tir||
+|Noir total|état "Aveuglé"|Attaque magique nécessitant de voir la cible sont impossibles.|
+||||
 
 
 ## Test en coopération

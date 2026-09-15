@@ -24,12 +24,11 @@
     |Niveau|Niveau du personnage. Il gagne automatiquement 1 niveau à la fin de chaque aventure.|1|
     |Point de vie||Max Dé de Vie + Mod. CON|
     |Initiative|Initiative lors d'un combat|Valeur de DEX|
-    |Contact|Attaque au corps à corps|Niveau + Modificateur FOR|
-    |Distance|Attaque à distance|Niveau + Modificateur DEX|
+    |Contact|Attaque au corps à corps|Niveau + Modificateur FOR + Arme|
+    |Distance|Attaque à distance|Niveau + Modificateur DEX + Arme|
     |Magique|Attaque magique|Niveau + Modificateur INT ou SAG ou CHA|
-    |Defense||10+ Modif DEX|
+    |Defense||10 + Modif DEX + Armure + Bouclier|
     ||||
-
 
 ## Race
 |Carac|Description||
@@ -163,7 +162,17 @@ Plusieurs méthodes:
 
 
 ## Equipement
+
+### De Base
+- 1 Couverture
+- 1 Torche
+- 1 briquet Silex
+- 1 outre
+- 1 gamelle
+- 5 Pièces d'argent
+
 ### Armure/Bouclier
+
 Effets globaux:
 * Ajoute un bonus à la DEF.  
 * 1 armure augmente le niveau de difficulté des tests de DEX d'un montant égal à son modificateur de défense.  
@@ -181,7 +190,6 @@ Utiliser une arme pour laquelle un personnage n'est pas compétent induira un ma
 Le potentiel de dégât d'une arme est égale à la somme de:
 * Son DM propre (nombre et type de dés à lancer)
 * Le modificateur de FOR  (uniquement pour les attaques au contact)
-
 
 
 ### Autres
@@ -223,6 +231,7 @@ Récupération des PM:
 
 
 
+
 ## Point de Chance (optionnel)
 **Attribution**  
 Chaque personnage reçoitun nombre de point de chance égale à: **3 + Mod. CHA**  
@@ -234,6 +243,17 @@ Après un test raté, il peut dépenser 1 PC pour ajouter +10 au résultat du d2
 
 **Récupération**   
 Récupération de l'intégralité à chaque passage de niveau du personnage.  
+
+
+## Langues
+
+Par défaut, un personnage maitrise :
+ - La langue officielle de sa région natale
+ - La langue de sa race/éthnie
+
+Pour chaque point du modificateur d'Intelligence, il peut maitriser : 
+  - 1 langue étrangère
+  - Lire écrire une langue étrangère
 
 ## Caractéristiques Supérieures (optionnel)
 **Attribution**  

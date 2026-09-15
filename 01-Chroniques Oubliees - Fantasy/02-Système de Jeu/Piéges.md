@@ -8,7 +8,7 @@ Pour éviter un piège vous pouvez soit le contourner, soit tenter de le désamo
 
 
 ## Détection
-Si le personnage ne cherche pas particulmièrement de piège:
+Si le personnage ne cherche pas particulièrement de piège:
 - Réussir un test de SAG de DD définie par le piège
 
 Si le personnage cherche activement un piège:

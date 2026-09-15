@@ -12,7 +12,6 @@ Pendant ce tour les protagonistes jouent séquentiellement:
 - En cas d'égalité entre PJ l'ordre est défini par valeur de SAG décroissante
 - 1 PJ peut choisir de rédurie son initiative pour agir plus tard dans le tour
 
-
 Pendant ce tour chaque PJ peut faire une des combinaisons suivantes:
 * Action Limitée  
 
@@ -34,7 +33,45 @@ De plus, il peut effectuer 1 action gratuite si disponible.
 |Gratuite||
 
 </br>
+
+## Action Limitée
+
+### Capacité de voie
+Utilisation d'une capacité de voie limitée annotée "L"
+
+### Défense totale
+Un PJ peut utiliser son action d'attaque limitée pour améliorer sa défense jusqu'à son prochain tour de **+4**.  
+
+
+## Mouvement
+
+L'action de mouvement couvre :
+  - Un déplacment jusqu'à 20m
+  - Une action simple et rapide : boire une potion, ramasser, dégainer...
+  - Se relever 
+
 ## Action d'Attaque
+
+### Attaque  
+1. Choisir l'arme
+    Contact : Distance entre les socles =< 1 socle.  
+
+2. Lancer 1 D20 + le score d'attaque correspondant au type de l'arme (contact/distance/magique)
+    
+3. Comparer le résultat à la défense de la cible:  
+    - < DEF  
+        Fin du combat. Aucun effet.  
+        
+    - \>= DEF  
+        L'attaque touche, allez à l'étape 4.
+
+4. Lancer les dés de dommages pour connaitre le nombre de DM auxquels vous ajoutez d'eventuel modificateurs 
+     - Contact: +FOR 
+
+5. Si le lancer est une réussite critique (20 naturel) les dégâts sont doublés 
+
+6. La cible subit ce nombre de dégât
+
 
 ### Modificateurs d'attaque
 
@@ -42,29 +79,14 @@ LE MJ peut modifier le score d'attaque suivant les circonstances:
 
 |Type d'attaque|Circonstances| Modificateur|
 |:--|:--|:--:|
-|Distance|mêlée|-2 à -5|
-|Distance|Ligne de vue bloqué (couvert, allié)| -2 à -5|
-|Distance|Pénombre|-5|
-|Contact / Distance|Pluies fortes|-2|
+|Tir|mêlée|-2 à -5|
+|Tir|Ligne de vue bloqué (couvert, en mêlée)| -2. -5 si allié|
+|Tir|Pénombre|-5|
+|Tir|Au-delà de la portée mais moins du double.|-5|
+|Contact / Tir|Pluies fortes|-2|
 ||||
 
-
-### Normale
-1. Choisir l'arme
-2. Lancer 1 D20 + le score d'attaque correspondant au type de l'arme (contact/distance/magique)
-3. Comparer le résultat à la défense de la cible:  
-    - < DEF  
-        Fin du combat. Aucun effet
-    - \>= DEF  
-        Etape 4.
-4. Lancer les dés de dommages pour connaitre le nombre de DM auxquels vous ajoutez d'eventuel modificateurs
-5. Si le lancer est une réussite critique (20 naturel) les dégâts sont doublés 
-6. La cible subit ce nombre de dégât
-
-
-</br>
-
-## Attaque Concertée
+### Attaque Concertée
 Un PJ aide un autre PJ lors de sa prochaine attaque ce tour.  
 Peut être utile si un PJ a une arme inefficace contre un type d'ennemi.  
 
@@ -78,14 +100,6 @@ Un PJ peut utiliser son action d'attaque pour améliorer sa défense jusqu'à so
 
 </br>
 
-## Action Limitée
-### Capacité de voie
-Utilisation d'une capacité de voie limitée annotée "L"
-
-### Défense totale
-Un PJ peut utiliser son action d'attaque limitée pour améliorer sa défense jusqu'à son prochain tour de **+4**.  
-
-</br>
 
 ## Combattre à 2 Mains
 Le test est plus compliqué car au lieu d'utiliser 1d20, il utilise 1d12 pour le test d'attaque.  
@@ -175,4 +189,4 @@ Pour cela il doit réussir un test de DEX = à l'initiative du personnage interr
 - **Echec**  
     Il jouera normalement à son tour.
 
-### xxx
+
